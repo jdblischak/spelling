@@ -8,7 +8,7 @@ matrix:
   include:
     - os: linux
       r: 3.2.5
-      r_binary_packages: r-cran-digest
+      r_binary_packages: digest
     - os: linux
       r: 3.3.0
     - os: osx
