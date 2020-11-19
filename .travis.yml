@@ -11,6 +11,8 @@ matrix:
       r_binary_packages: digest
     - os: linux
       r: 3.3.0
+    - os: linux
+      r: release
     - os: osx
 
 addons:
